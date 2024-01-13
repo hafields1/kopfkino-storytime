@@ -1,24 +1,24 @@
-Raesfeld 
+Raesfeld - place
 Flughafen - Airport
-Berlin 
-Bratwurst 
-Hauptstrasse - Main Street?
+Berlin - place
+Bratwurst - sausage
+Hauptstrasse - Main Street
 Brot - Bread
-Klimaanlage 
+Klimaanlage - Air Conditioner
 Rammstein - Metal Band
-Porsche
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
+Porsche - car
+BMW - car
+Biergarten - Beer Garden
+Ratskeller - Basement Restauraunt
+Dirndel - long dress
+Lederhose - town
 Schloss - Castle
 wettbewerbsfaehig 
-Mehlhase 
-Gebaeck
+Mehlhase - Professor
+Gebaeck - pastries
 Baeckerei - Bakery
 Hund - Dog
 Doener - Kebab Sandwich
 Apfelkuchen - Apple Cake
 Schloss - Castle
-Eltz
+Eltz - Eltz Castle
